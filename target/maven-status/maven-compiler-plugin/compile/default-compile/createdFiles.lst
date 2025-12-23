@@ -1,0 +1,3 @@
+com\mycompany\employee\resources\JakartaEE10Resource.class
+com\mycompany\employee\JakartaRestConfiguration.class
+person\bean\Staff.class
